@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mudit Jayesh Palvadi, a second-year Computer Science and Engineering student. I primarily work with Flutter and am currently developing a full-stack Flutter application. I also work as a UI designer, with a strong focus on layout structure and user flow. I am proficient in Python, C/C++, Java, and SQL, and I am actively learning backend development using Express and NestJS, with an emphasis on building RESTful APIs.
+I am Mudit Jayesh Palvadi, a second-year Computer Science and Engineering student. I primarily work with Flutter and am currently developing a full-stack Flutter application. I also work as a UI designer, with a strong focus on layout structure and user flow. I am proficient in Python, C/C++, Java, and SQL, and I am actively learning backend development using FastAPI, with an emphasis on building RESTful APIs.
 
 
 ## 🌐 Socials:
