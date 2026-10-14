@@ -27,23 +27,35 @@ Right now I'm learning Go and system design, working toward building data-intens
 <a name="-featured"></a>
 ## 🚀 Featured
 
-### [Lynk](https://github.com/mudit-palvadi/lynk-client)
-
-Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2 — the FastAPI service only hands out short-lived URLs and keeps the session in Redis.
-
-[Client](https://github.com/mudit-palvadi/lynk-client) &middot; [API](https://github.com/mudit-palvadi/lynk-backend)
-
-### [LeadRadar](https://github.com/mudit-palvadi/lead-radar)
-
-An agent that scans local businesses, finds the ones that might need a service, and writes the first email. Open weights, not a closed API, with the workflow running on Temporal.
-
-### [ARGUS](https://github.com/mudit-palvadi/argus_simulation)
-
-A satellite digital twin. The simulator streams ISS-like telemetry over a WebSocket, and the FastAPI backend classifies anomalies and threats for a dashboard.
-
-[Simulation](https://github.com/mudit-palvadi/argus_simulation) &middot; [Server](https://github.com/mudit-palvadi/argus-server)
-
----
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>📡 <a href="https://github.com/mudit-palvadi/lynk-client">Lynk</a></h3>
+      <p>Login-free, encrypted file transfer between devices.</p>
+      <a href="https://github.com/mudit-palvadi/lynk-client"><img src="https://img.shields.io/github/stars/mudit-palvadi/lynk-client?style=flat-square" alt="Lynk stars" /></a>
+      <br />
+      <a href="https://github.com/mudit-palvadi/lynk-client">Client</a> &middot; <a href="https://github.com/mudit-palvadi/lynk-backend">API</a>
+      <br />
+      <sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🤖 <a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
+      <p>An AI agent that finds local businesses and writes the first email.</p>
+      <a href="https://github.com/mudit-palvadi/lead-radar"><img src="https://img.shields.io/github/stars/mudit-palvadi/lead-radar?style=flat-square" alt="LeadRadar stars" /></a>
+      <br />
+      <sub>TypeScript &middot; Temporal &middot; Gemma</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🛰️ <a href="https://github.com/mudit-palvadi/argus_simulation">ARGUS</a></h3>
+      <p>A satellite digital twin streaming live telemetry over WebSockets.</p>
+      <a href="https://github.com/mudit-palvadi/argus_simulation"><img src="https://img.shields.io/github/stars/mudit-palvadi/argus_simulation?style=flat-square" alt="ARGUS stars" /></a>
+      <br />
+      <a href="https://github.com/mudit-palvadi/argus_simulation">Simulation</a> &middot; <a href="https://github.com/mudit-palvadi/argus-server">Server</a>
+      <br />
+      <sub>Python &middot; FastAPI &middot; WebSocket</sub>
+    </td>
+  </tr>
+</table>
 
 <a name="-stack"></a>
 ## 🧰 Stack
