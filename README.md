@@ -1,25 +1,37 @@
 <p align="center">
-  <h1>Mudit Palvadi</h1>
-  <p>Flutter developer moving into backend and distributed systems</p>
-  <p>Right now: learning <b>Go</b> and <b>system design</b> — data-intensive applications and workflows</p>
-  <a href="https://www.behance.net/galaxyphoenix716"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://github.com/mudit-palvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://pub.dev/publishers/muditjpalvadi.tech/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+  <a href="#-about">About</a> &bull; <a href="#-featured">Featured</a> &bull; <a href="#-stack">Stack</a> &bull; <a href="#-stats">Stats</a> &bull; <a href="#-connect">Connect</a>
 </p>
 
-## About
+<h1 align="center">Hey, I'm Mudit</h1>
+<h3 align="center">Flutter developer moving into backend and distributed systems</h3>
+
+<p align="center">
+  🌱 Learning <b>Go</b> and <b>system design</b> — data-intensive applications and workflows
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mudit-palvadi&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<a name="-about"></a>
+## 💡 About
 
 Computer Science and Engineering student. I build Flutter apps with the focus on layout structure and user flow, including two published packages — a 3D coverflow carousel and a fluid side menu, both under [muditjpalvadi.tech on pub.dev](https://pub.dev/publishers/muditjpalvadi.tech/packages).
 
 Right now I'm learning Go and system design, working toward building data-intensive applications and workflows.
 
-## Featured
+---
+
+<a name="-featured"></a>
+## 🚀 Featured
 
 ### [Lynk](https://github.com/mudit-palvadi/lynk-client)
 
 Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2 — the FastAPI service only hands out short-lived URLs and keeps the session in Redis.
 
-[Client](https://github.com/mudit-palvadi/lynk-client) · [API](https://github.com/mudit-palvadi/lynk-backend)
+[Client](https://github.com/mudit-palvadi/lynk-client) &middot; [API](https://github.com/mudit-palvadi/lynk-backend)
 
 ### [LeadRadar](https://github.com/mudit-palvadi/lead-radar)
 
@@ -29,40 +41,65 @@ An agent that scans local businesses, finds the ones that might need a service, 
 
 A satellite digital twin. The simulator streams ISS-like telemetry over a WebSocket, and the FastAPI backend classifies anomalies and threats for a dashboard.
 
-[Simulation](https://github.com/mudit-palvadi/argus_simulation) · [Server](https://github.com/mudit-palvadi/argus-server)
+[Simulation](https://github.com/mudit-palvadi/argus_simulation) &middot; [Server](https://github.com/mudit-palvadi/argus-server)
 
-## Tech Stack
+---
 
-**Languages**
+<a name="-stack"></a>
+## 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,go" alt="Languages skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,go" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,postgresql,supabase,firebase" alt="App, backend and data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,figma" alt="Infrastructure and design" />
+</p>
 
-**Mobile & app dev**
+---
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile & app dev skills" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,supabase,firebase" alt="Backend & data skills" />
-
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,docker" alt="Infrastructure skills" />
-
-**Design**
-
-<img src="https://skillicons.dev/icons?i=figma" alt="Design skills" />
-
-## Activity
+<a name="-stats"></a>
+## 📊 Stats
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=1A1B26&title_color=C0CAF5&text_color=A9B1D6&icon_color=7DCFFF&ring_color=7DCFFF&rank_icon=github" />
-    <img alt="GitHub stats for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89&icon_color=7AA2F7&ring_color=7AA2F7&rank_icon=github" />
+    <img alt="GitHub stats for mudit-palvadi" height="170" src="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89&icon_color=7AA2F7&ring_color=7AA2F7&rank_icon=github" />
   </picture>
-  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=1A1B26&title_color=C0CAF5&text_color=A9B1D6" />
-    <img alt="Most used languages for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89" />
+    <img alt="Most used languages for mudit-palvadi" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89" />
   </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=1A1B26&stroke=2F3549&ring=7DCFFF&fire=F7768E&currStreakNum=C0CAF5&sideNums=A9B1D6&currStreakLabel=7DCFFF&sideLabels=565F89&dates=565F89" />
+    <img alt="Contribution streak for mudit-palvadi" src="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=7AA2F7&fire=F7768E&currStreakNum=1A1B26&sideNums=414868&currStreakLabel=3D59A1&sideLabels=565F89&dates=565F89" />
+  </picture>
+</p>
+
+---
+
+<a name="-connect"></a>
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.behance.net/galaxyphoenix716"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://github.com/mudit-palvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://pub.dev/publishers/muditjpalvadi.tech/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning in public — Go, system design, and everything between Flutter and the database.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,1a1b26,283457,7aa2f7&height=120&section=footer" alt="footer wave" />
+</p>
+
+<p align="center">
+  <a href="#hey-im-mudit">Back to the top</a>
 </p>
