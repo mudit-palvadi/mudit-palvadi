@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mudit-palvadi&style=flat-square" alt="profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=mudit-palvadi.mudit-palvadi&label=PROFILE+VIEWS&countColor=%237AA2F7&style=flat-square&labelColor=1A1B26" alt="profile views" />
 </p>
 
 ---
@@ -38,12 +38,14 @@ Right now I'm learning Go and system design, working toward building data-intens
       <br />
       <sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
-      <p>An AI agent that finds local businesses and writes the first email.</p>
-      <a href="https://github.com/mudit-palvadi/lead-radar"><img src="https://img.shields.io/github/stars/mudit-palvadi/lead-radar?style=social" alt="LeadRadar stars" /></a>
+        <td align="center" width="50%" valign="top">
+      <h3>🎡 <a href="https://github.com/mudit-palvadi/coverflow_carousel_package">coverflow_carousel</a></h3>
+      <p>A 3D coverflow carousel for Flutter — perspective, overlap, scaling, and a code-driven controller.</p>
+      <a href="https://github.com/mudit-palvadi/coverflow_carousel_package"><img src="https://img.shields.io/github/stars/mudit-palvadi/coverflow_carousel_package?style=social" alt="coverflow_carousel stars" /></a>
       <br />
-      <sub>TypeScript &middot; Temporal &middot; Gemma</sub>
+      <a href="https://pub.dev/packages/coverflow_carousel">pub.dev</a> &middot; <a href="https://github.com/mudit-palvadi/coverflow_carousel_package">Source</a>
+      <br />
+      <sub>Flutter &middot; Dart</sub>
     </td>
   </tr>
   <tr>
