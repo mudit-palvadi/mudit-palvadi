@@ -1,25 +1,7 @@
 <p align="center">
-<pre>
-+-----------------------------------------------+
-|             ~/mudit-palvadi  ::  zsh          |
-+-----------------------------------------------+
-|  ███  ███  ██   ██  ███████  ███████  ███████ |
-|  ███  ███  ██   ██  ██   ██    ███      ███   |
-|  ███████   ██   ██  ██   ██    ███      ███   |
-|  ██ █ ██   ██   ██  ██   ██    ███      ███   |
-|  ███  ███  ██   ██  ██   ██    ███      ███   |
-|  ███  ███  ███████  ███████  ███████    ███   |
-+-----------------------------------------------+
-|   flutter  ->  fastapi  ->  postgres  ->  aws |
-+-----------------------------------------------+
-</pre>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7DCFFF&center=true&vCenter=true&width=680&lines=Flutter+Developer;Diving+into+backend+and+distributed+systems" alt="Flutter Developer - Diving into backend and distributed systems" />
-</p>
-
-<p align="center">
+  <h2>$ whoami — mudit-palvadi</h2>
+  <p><b>Flutter Developer</b> diving into backend and distributed systems</p>
+  <p><code>flutter -&gt; fastapi -&gt; postgres -&gt; aws -&gt; docker</code></p>
   <a href="https://www.behance.net/galaxyphoenix716"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://github.com/mudit-palvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://pub.dev/publishers/muditjpalvadi.tech/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
@@ -96,17 +78,4 @@ A satellite digital twin. The simulator streams ISS-like telemetry over a WebSoc
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=1A1B26&title_color=C0CAF5&text_color=A9B1D6" />
     <img alt="Most used languages for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89" />
   </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=1A1B26&stroke=2F3549&ring=7DCFFF&fire=F7768E&currStreakNum=C0CAF5&sideNums=A9B1D6&currStreakLabel=7DCFFF&sideLabels=565F89&dates=565F89" />
-    <img alt="Contribution streak for mudit-palvadi" src="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=7AA2F7&fire=F7768E&currStreakNum=1A1B26&sideNums=414868&currStreakLabel=3D59A1&sideLabels=565F89&dates=565F89" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <sub>Built with curiosity, caffeine, and an unreasonable number of Flutter rebuilds.</sub>
 </p>
