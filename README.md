@@ -1,20 +1,22 @@
 <p align="center">
 <pre>
- ┌──────────────────────────────────────────────────┐
- ├  ~/mudit-palvadi — zsh                           ┤
- │  ███╗   ███╗ ██╗   ██╗ ██████╗  ██╗ ███████████  │
- │  ████╗ ████║ ██║   ██║ ██╔══██╗ ██║     ██       │
- │  ██╗████╗██║ ██║   ██║ ██║  ██║ ██║     ██       │
- │  ██║╚██╗╝██║ ██║   ██║ ██║  ██║ ██║     ██       │
- │  ██║ ╚═╝ ██║ ████████║ ██████╔╝ ██║     ██       │
- │  ╚═╝     ╚═╝ ╚══════╝  ╚═════╝  ╚═╝     ██       │
- │  flutter > fastapi > postgres > aws > docker     │
- └──────────────────────────────────────────────────┘
++-----------------------------------------------+
+|             ~/mudit-palvadi  ::  zsh          |
++-----------------------------------------------+
+|  ███  ███  ██   ██  ███████  ███████  ███████ |
+|  ███  ███  ██   ██  ██   ██    ███      ███   |
+|  ███████   ██   ██  ██   ██    ███      ███   |
+|  ██ █ ██   ██   ██  ██   ██    ███      ███   |
+|  ███  ███  ██   ██  ██   ██    ███      ███   |
+|  ███  ███  ███████  ███████  ███████    ███   |
++-----------------------------------------------+
+|   flutter  ->  fastapi  ->  postgres  ->  aws |
++-----------------------------------------------+
 </pre>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7DCFFF&center=true&vCenter=true&width=680&lines=Flutter+developer+-+clean+UI+and+real+backends;FastAPI+%2B+PostgreSQL+%2B+AWS+%2B+Docker;Currently+building+Lynk,+ARGUS,+LeadRadar" alt="Mudit Palvadi - Flutter developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7DCFFF&center=true&vCenter=true&width=680&lines=Flutter+Developer;Diving+into+backend+and+distributed+systems" alt="Flutter Developer - Diving into backend and distributed systems" />
 </p>
 
 <p align="center">
@@ -29,13 +31,13 @@ I am Mudit Jayesh Palvadi, a Computer Science and Engineering student. I build F
 
 Two of those interface pieces are published Flutter packages: a 3D coverflow carousel and a fluid side menu, both under [muditjpalvadi.tech on pub.dev](https://pub.dev/publishers/muditjpalvadi.tech/packages).
 
-## Selected work
+## Featured work
 
-The mobile work is Flutter. Lynk, ARGUS, and LeadRadar are where the backend and distributed-systems work shows up.
+The mobile work is Flutter. These three are where the backend and distributed-systems work shows up.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/lynk-client">Lynk</a></h3>
 Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2. The FastAPI service only hands out short-lived URLs and keeps the session in Redis.
 <br/><br/>
@@ -43,35 +45,13 @@ Login-free file transfer between devices. Files are encrypted on the phone and u
 <br/>
 <sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/mudit-palvadi/voxfable">VoxFable</a></h3>
-An interactive story buddy for children aged 6&ndash;10. Narration with word-by-word highlighting, a Rive mascot, and a quiz loop, structured with MVVM and Riverpod.
-<br/><br/>
-<sub>Flutter &middot; Riverpod &middot; Rive &middot; ElevenLabs</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/mudit-palvadi/heads-up">Heads Up</a></h3>
-At most three emails that matter, on an Android home screen, each with a button to listen instead of read. Built for a friend who is dyslexic and rarely opens his inbox. The model runs on the device.
-<br/><br/>
-<sub>Flutter &middot; on-device Gemma</sub>
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
 An agent that scans local businesses, finds the ones that might need a service, and writes the first email. Open weights, not a closed API, with the workflow running on Temporal.
 <br/><br/>
 <sub>TypeScript &middot; Temporal &middot; Gemma</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://pub.dev/packages/coverflow_carousel">coverflow_carousel</a></h3>
-A 3D coverflow carousel for Flutter: perspective, overlap, scaling, and a controller you can drive from code. This is the most-used package I maintain.
-<br/><br/>
-<a href="https://pub.dev/packages/coverflow_carousel">pub.dev</a> &middot; <a href="https://github.com/mudit-palvadi/coverflow_carousel_package">Source</a>
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/argus_simulation">ARGUS</a></h3>
 A satellite digital twin. The simulator streams ISS-like telemetry over a WebSocket, and the FastAPI backend classifies anomalies and threats for a dashboard.
 <br/><br/>
@@ -81,8 +61,6 @@ A satellite digital twin. The simulator streams ISS-like telemetry over a WebSoc
 </td>
 </tr>
 </table>
-
-Also: [fluid_side_menu](https://pub.dev/packages/fluid_side_menu) (a navigation drawer with a liquid reveal), [Vibe](https://github.com/mudit-palvadi/Vibe) (a music client with Supabase auth), [TripSplit](https://github.com/mudit-palvadi/tripsplit) (group trip expenses), and [Grass Receipts](https://github.com/mudit-palvadi/grass-receipts) (an on-device receipt for time spent outside).
 
 ## Tech Stack
 
