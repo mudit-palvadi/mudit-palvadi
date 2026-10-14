@@ -1,14 +1,27 @@
-<div align="center">
+<p align="center">
+<pre>
+ ┌──────────────────────────────────────────────────┐
+ ├  ~/mudit-palvadi — zsh                           ┤
+ │  ███╗   ███╗ ██╗   ██╗ ██████╗  ██╗ ███████████  │
+ │  ████╗ ████║ ██║   ██║ ██╔══██╗ ██║     ██       │
+ │  ██╗████╗██║ ██║   ██║ ██║  ██║ ██║     ██       │
+ │  ██║╚██╗╝██║ ██║   ██║ ██║  ██║ ██║     ██       │
+ │  ██║ ╚═╝ ██║ ████████║ ██████╔╝ ██║     ██       │
+ │  ╚═╝     ╚═╝ ╚══════╝  ╚═════╝  ╚═╝     ██       │
+ │  flutter > fastapi > postgres > aws > docker     │
+ └──────────────────────────────────────────────────┘
+</pre>
+</p>
 
-# Mudit Palvadi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7DCFFF&center=true&vCenter=true&width=680&lines=Flutter+developer+-+clean+UI+and+real+backends;FastAPI+%2B+PostgreSQL+%2B+AWS+%2B+Docker;Currently+building+Lynk,+ARGUS,+LeadRadar" alt="Mudit Palvadi - Flutter developer" />
+</p>
 
-Flutter developer and UI designer, diving into backend and distributed systems.
-
-Computer Science and Engineering student
-
-[Behance](https://www.behance.net/galaxyphoenix716)
-
-</div>
+<p align="center">
+  <a href="https://www.behance.net/galaxyphoenix716"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://github.com/mudit-palvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://pub.dev/publishers/muditjpalvadi.tech/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
+</p>
 
 ## About
 
@@ -26,15 +39,15 @@ The mobile work is Flutter. Lynk, ARGUS, and LeadRadar are where the backend and
 <h3><a href="https://github.com/mudit-palvadi/lynk-client">Lynk</a></h3>
 Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2. The FastAPI service only hands out short-lived URLs and keeps the session in Redis.
 <br/><br/>
-<a href="https://github.com/mudit-palvadi/lynk-client">Client</a> · <a href="https://github.com/mudit-palvadi/lynk-backend">API</a>
+<a href="https://github.com/mudit-palvadi/lynk-client">Client</a> &middot; <a href="https://github.com/mudit-palvadi/lynk-backend">API</a>
 <br/>
-<sub>Flutter · FastAPI · Redis · Cloudflare R2</sub>
+<sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/voxfable">VoxFable</a></h3>
-An interactive story buddy for children aged 6–10. Narration with word-by-word highlighting, a Rive mascot, and a quiz loop, structured with MVVM and Riverpod.
+An interactive story buddy for children aged 6&ndash;10. Narration with word-by-word highlighting, a Rive mascot, and a quiz loop, structured with MVVM and Riverpod.
 <br/><br/>
-<sub>Flutter · Riverpod · Rive · ElevenLabs</sub>
+<sub>Flutter &middot; Riverpod &middot; Rive &middot; ElevenLabs</sub>
 </td>
 </tr>
 <tr>
@@ -42,13 +55,13 @@ An interactive story buddy for children aged 6–10. Narration with word-by-word
 <h3><a href="https://github.com/mudit-palvadi/heads-up">Heads Up</a></h3>
 At most three emails that matter, on an Android home screen, each with a button to listen instead of read. Built for a friend who is dyslexic and rarely opens his inbox. The model runs on the device.
 <br/><br/>
-<sub>Flutter · on-device Gemma</sub>
+<sub>Flutter &middot; on-device Gemma</sub>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
 An agent that scans local businesses, finds the ones that might need a service, and writes the first email. Open weights, not a closed API, with the workflow running on Temporal.
 <br/><br/>
-<sub>TypeScript · Temporal · Gemma</sub>
+<sub>TypeScript &middot; Temporal &middot; Gemma</sub>
 </td>
 </tr>
 <tr>
@@ -56,59 +69,66 @@ An agent that scans local businesses, finds the ones that might need a service, 
 <h3><a href="https://pub.dev/packages/coverflow_carousel">coverflow_carousel</a></h3>
 A 3D coverflow carousel for Flutter: perspective, overlap, scaling, and a controller you can drive from code. This is the most-used package I maintain.
 <br/><br/>
-<a href="https://pub.dev/packages/coverflow_carousel">pub.dev</a> · <a href="https://github.com/mudit-palvadi/coverflow_carousel_package">Source</a>
+<a href="https://pub.dev/packages/coverflow_carousel">pub.dev</a> &middot; <a href="https://github.com/mudit-palvadi/coverflow_carousel_package">Source</a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/mudit-palvadi/argus_simulation">ARGUS</a></h3>
 A satellite digital twin. The simulator streams ISS-like telemetry over a WebSocket, and the FastAPI backend classifies anomalies and threats for a dashboard.
 <br/><br/>
-<a href="https://github.com/mudit-palvadi/argus_simulation">Simulation</a> · <a href="https://github.com/mudit-palvadi/argus-server">Server</a>
+<a href="https://github.com/mudit-palvadi/argus_simulation">Simulation</a> &middot; <a href="https://github.com/mudit-palvadi/argus-server">Server</a>
 <br/>
-<sub>Python · FastAPI · WebSocket</sub>
+<sub>Python &middot; FastAPI &middot; WebSocket</sub>
 </td>
 </tr>
 </table>
 
 Also: [fluid_side_menu](https://pub.dev/packages/fluid_side_menu) (a navigation drawer with a liquid reveal), [Vibe](https://github.com/mudit-palvadi/Vibe) (a music client with Supabase auth), [TripSplit](https://github.com/mudit-palvadi/tripsplit) (group trip expenses), and [Grass Receipts](https://github.com/mudit-palvadi/grass-receipts) (an on-device receipt for time spent outside).
 
-## Stack
+## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,go" alt="Languages skills" />
 
-**Mobile**
+**Mobile & app dev**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile & app dev skills" />
 
-**Backend and data**
+**Backend & data**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,supabase,firebase" alt="Backend & data skills" />
 
 **Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker" alt="Infrastructure skills" />
 
 **Design**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma" alt="Design skills" />
 
 ## Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" />
-    <img alt="GitHub stats for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=0969da&ring_color=0969da" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=1A1B26&title_color=C0CAF5&text_color=A9B1D6&icon_color=7DCFFF&ring_color=7DCFFF&rank_icon=github" />
+    <img alt="GitHub stats for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api?username=mudit-palvadi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89&icon_color=7AA2F7&ring_color=7AA2F7&rank_icon=github" />
   </picture>
+  &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
-    <img alt="Most used languages for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=656d76" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=1A1B26&title_color=C0CAF5&text_color=A9B1D6" />
+    <img alt="Most used languages for mudit-palvadi" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit-palvadi&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=1A1B26&text_color=565F89" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-    <img alt="Contribution streak for mudit-palvadi" src="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=1A1B26&stroke=2F3549&ring=7DCFFF&fire=F7768E&currStreakNum=C0CAF5&sideNums=A9B1D6&currStreakLabel=7DCFFF&sideLabels=565F89&dates=565F89" />
+    <img alt="Contribution streak for mudit-palvadi" src="https://streak-stats.demolab.com/?user=mudit-palvadi&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=7AA2F7&fire=F7768E&currStreakNum=1A1B26&sideNums=414868&currStreakLabel=3D59A1&sideLabels=565F89&dates=565F89" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with curiosity, caffeine, and an unreasonable number of Flutter rebuilds.</sub>
 </p>
