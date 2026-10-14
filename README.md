@@ -1,7 +1,7 @@
 <p align="center">
-  <h2>$ whoami — mudit-palvadi</h2>
-  <p><b>Flutter Developer</b> diving into backend and distributed systems</p>
-  <p><code>flutter -&gt; fastapi -&gt; postgres -&gt; aws -&gt; docker</code></p>
+  <h1>Mudit Palvadi</h1>
+  <p>Flutter developer moving into backend and distributed systems</p>
+  <p>Right now: learning <b>Go</b> and <b>system design</b> — data-intensive applications and workflows</p>
   <a href="https://www.behance.net/galaxyphoenix716"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://github.com/mudit-palvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://pub.dev/publishers/muditjpalvadi.tech/packages"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
@@ -9,40 +9,27 @@
 
 ## About
 
-I am Mudit Jayesh Palvadi, a Computer Science and Engineering student. I build Flutter apps with the work concentrated on layout structure and user flow, and I am diving into backend and distributed systems with FastAPI, PostgreSQL, and the infrastructure around them: Supabase, Firebase, AWS, and Docker. I also work in Python, C, C++, Java, Dart, and Go.
+Computer Science and Engineering student. I build Flutter apps with the focus on layout structure and user flow, including two published packages — a 3D coverflow carousel and a fluid side menu, both under [muditjpalvadi.tech on pub.dev](https://pub.dev/publishers/muditjpalvadi.tech/packages).
 
-Two of those interface pieces are published Flutter packages: a 3D coverflow carousel and a fluid side menu, both under [muditjpalvadi.tech on pub.dev](https://pub.dev/publishers/muditjpalvadi.tech/packages).
+Right now I'm learning Go and system design, working toward building data-intensive applications and workflows.
 
-## Featured work
+## Featured
 
-The mobile work is Flutter. These three are where the backend and distributed-systems work shows up.
+### [Lynk](https://github.com/mudit-palvadi/lynk-client)
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/mudit-palvadi/lynk-client">Lynk</a></h3>
-Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2. The FastAPI service only hands out short-lived URLs and keeps the session in Redis.
-<br/><br/>
-<a href="https://github.com/mudit-palvadi/lynk-client">Client</a> &middot; <a href="https://github.com/mudit-palvadi/lynk-backend">API</a>
-<br/>
-<sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
+Login-free file transfer between devices. Files are encrypted on the phone and uploaded straight to Cloudflare R2 — the FastAPI service only hands out short-lived URLs and keeps the session in Redis.
+
+[Client](https://github.com/mudit-palvadi/lynk-client) · [API](https://github.com/mudit-palvadi/lynk-backend)
+
+### [LeadRadar](https://github.com/mudit-palvadi/lead-radar)
+
 An agent that scans local businesses, finds the ones that might need a service, and writes the first email. Open weights, not a closed API, with the workflow running on Temporal.
-<br/><br/>
-<sub>TypeScript &middot; Temporal &middot; Gemma</sub>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/mudit-palvadi/argus_simulation">ARGUS</a></h3>
+
+### [ARGUS](https://github.com/mudit-palvadi/argus_simulation)
+
 A satellite digital twin. The simulator streams ISS-like telemetry over a WebSocket, and the FastAPI backend classifies anomalies and threats for a dashboard.
-<br/><br/>
-<a href="https://github.com/mudit-palvadi/argus_simulation">Simulation</a> &middot; <a href="https://github.com/mudit-palvadi/argus-server">Server</a>
-<br/>
-<sub>Python &middot; FastAPI &middot; WebSocket</sub>
-</td>
-</tr>
-</table>
+
+[Simulation](https://github.com/mudit-palvadi/argus_simulation) · [Server](https://github.com/mudit-palvadi/argus-server)
 
 ## Tech Stack
 
