@@ -29,7 +29,7 @@ Right now I'm learning Go and system design, working toward building data-intens
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>📡 <a href="https://github.com/mudit-palvadi/lynk-client">Lynk</a></h3>
       <p>Login-free, encrypted file transfer between devices.</p>
       <a href="https://github.com/mudit-palvadi/lynk-client"><img src="https://img.shields.io/github/stars/mudit-palvadi/lynk-client?style=flat-square" alt="Lynk stars" /></a>
@@ -38,14 +38,16 @@ Right now I'm learning Go and system design, working toward building data-intens
       <br />
       <sub>Flutter &middot; FastAPI &middot; Redis &middot; Cloudflare R2</sub>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/mudit-palvadi/lead-radar">LeadRadar</a></h3>
       <p>An AI agent that finds local businesses and writes the first email.</p>
       <a href="https://github.com/mudit-palvadi/lead-radar"><img src="https://img.shields.io/github/stars/mudit-palvadi/lead-radar?style=flat-square" alt="LeadRadar stars" /></a>
       <br />
       <sub>TypeScript &middot; Temporal &middot; Gemma</sub>
     </td>
-    <td align="center" width="33%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
       <h3>🛰️ <a href="https://github.com/mudit-palvadi/argus_simulation">ARGUS</a></h3>
       <p>A satellite digital twin streaming live telemetry over WebSockets.</p>
       <a href="https://github.com/mudit-palvadi/argus_simulation"><img src="https://img.shields.io/github/stars/mudit-palvadi/argus_simulation?style=flat-square" alt="ARGUS stars" /></a>
@@ -53,6 +55,15 @@ Right now I'm learning Go and system design, working toward building data-intens
       <a href="https://github.com/mudit-palvadi/argus_simulation">Simulation</a> &middot; <a href="https://github.com/mudit-palvadi/argus-server">Server</a>
       <br />
       <sub>Python &middot; FastAPI &middot; WebSocket</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/lichess-org/mobile">Lichess</a></h3>
+      <p>2 merged PRs to the Lichess Flutter app — including a 56-file refactor removing circular dependencies.</p>
+      <a href="https://github.com/lichess-org/mobile/pulls?q=author%3Amudit-palvadi"><img src="https://img.shields.io/badge/PRs-2%20merged-2ea043?style=flat-square&logo=github" alt="2 merged PRs" /></a>
+      <br />
+      <a href="https://github.com/lichess-org/mobile/pull/3443">#3443</a> &middot; <a href="https://github.com/lichess-org/mobile/pull/3498">#3498</a>
+      <br />
+      <sub>Flutter &middot; open source</sub>
     </td>
   </tr>
 </table>
